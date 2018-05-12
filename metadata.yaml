@@ -1,0 +1,29 @@
+_repo: The-Confessions-of-a-Caricaturist-Vol.-2_22689
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Furniss, Harry
+    alias: Furniss, Henry
+    birthdate: 1854
+    deathdate: 1925
+    gutenberg_agent_id: '25492'
+    url: http://www.gutenberg.org/2009/agents/25492
+description: ''
+gutenberg_bookshelf: Humor
+gutenberg_issued: '2007-09-20'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '22689'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Furniss, Harry, 1854-1925'
+- !lcsh 'Cartoonists -- Great Britain -- Biography'
+- !lcc 'NC'
+title: The Confessions of a Caricaturist, Vol. 2
+url: http://www.gutenberg.org/ebooks/22689
