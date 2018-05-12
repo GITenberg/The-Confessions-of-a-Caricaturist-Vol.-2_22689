@@ -12,6 +12,8 @@ creator:
     gutenberg_agent_id: '25492'
     url: http://www.gutenberg.org/2009/agents/25492
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/22689#The-Confessions-of-a-Caricaturist-Vol.-2
 gutenberg_bookshelf: Humor
 gutenberg_issued: '2007-09-20'
 gutenberg_type: Text
